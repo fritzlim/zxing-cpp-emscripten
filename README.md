@@ -2,6 +2,8 @@
 
 The repository is based on [ZXing Emscripten build](https://github.com/kig/zxing-cpp-emscripten).
 
+Try the live demo at https://fritzlim.github.io/zxing-cpp-emscripten/examples/js.
+
 ## Emscripten Installation
 1. Download [emsdk-portable-64bit.zip](https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-portable-64bit.zip)
 2. Fetch the latest registry of available tools:
